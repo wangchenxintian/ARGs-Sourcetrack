@@ -1,5 +1,5 @@
-#R codes for data analyses and plotting
-#including ARG abundance based sourcetracking, and .
+#R codes for data analyses
+#including ARG abundance based sourcetracking
 #NOTE: the R script below has been simplified for illurstration
 
 ###################
